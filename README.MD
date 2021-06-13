@@ -30,6 +30,16 @@
 
 ---
 
+- Como se ve una vez ejecutado:
+
+<center>
+  <p align="center" align-items="center">
+     <code>WebhookHardware</code><br>
+    <br>
+    <img align="center" src="https://media.discordapp.net/attachments/844755531049467915/853429541492883456/unknown.png?width=571&height=559"/><br><br>
+  </p>
+</center>
+
 - **¿Como Usarlo? (Linux)**
 
   ```

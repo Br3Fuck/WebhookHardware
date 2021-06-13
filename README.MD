@@ -11,3 +11,8 @@
 </center>
 
 ---
+
+- **¿Que es WebhookHardware?**
+  - `WebhookHardware` se trata de un proyecto tratado para sacar informacion sobre el `hardware` de tus victimas, o inclusive utilizarlo para beneficios propios.
+  - este se implementa en la api de discord: `dicord_webhook, discord` utiliza una webhook que pueden [crear ustedes mismos.](https://tutodiscord.gitbook.io/tutodiscord/v/tutodiscord/guias/webhooks-nivel-principiante) 
+

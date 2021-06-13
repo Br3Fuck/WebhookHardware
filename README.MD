@@ -1,5 +1,5 @@
 <center>
-  <p align="center">Fase Beta</p>
+  <p align="center">v1.0</p>
 </center>
 
 <center>

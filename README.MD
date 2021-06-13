@@ -1,5 +1,5 @@
 <center>
-  <p align="center">v1.0</p>
+  <p align="center">v1.0.0</p>
 </center>
 
 <center>

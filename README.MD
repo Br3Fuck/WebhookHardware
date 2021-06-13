@@ -60,6 +60,7 @@
 - **Requisitos:**
   - [Python](https://www.python.org/)
   - Modulos:
+  <br></br>
   ```
   pip install requests || pip3 install requests
   ```

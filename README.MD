@@ -100,3 +100,13 @@
 <center>
   <p align="center">◞ Copyright Br3Fuck ◟</p>
 </center>
+
+---
+
+<center>
+  <p align="center" align-items="center">
+     <code>Unete al servidor de mi amigo</code><br>
+    <br>
+    <img align="center" src="https://discordapp.com/api/guilds/844729426843402271/widget.png?style=banner4"/><br><br>
+  </p>
+</center>
